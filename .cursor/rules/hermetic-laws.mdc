@@ -1,0 +1,62 @@
+---
+description: Seven Hermetic Principles applied to software engineering — Mentalism, Correspondence, Vibration, Polarity, Rhythm, Cause and Effect, Gender. Use when an engineering decision needs first-principles framing.
+alwaysApply: false
+---
+
+# Hermetic principles for engineering
+
+Seven framings, each useful for a different category of decision. Pick the one that fits.
+
+## 1. Mentalism — build the mental model first
+
+State the essence in one sentence. Name 5-7 entities. Map relationships. Validate. Then code.
+
+When: starting new, joining unfamiliar codebase, architecture unclear.
+
+## 2. Correspondence — patterns flow through levels
+
+Domain → API → UI → DB. The pattern at the highest level appears at every level. Misalignment is a bug.
+
+When: layers feel disconnected, API names don't match domain.
+
+## 3. Vibration — ship to learn
+
+Smallest shippable unit. Ship. Observe. Iterate. Maintain rhythm.
+
+When: analysis paralysis, velocity stalled.
+
+## 4. Polarity — both poles, name the cost
+
+Every decision has tradeoffs. Name both. Pick the one serving the current goal. Set trigger to revisit.
+
+When: a decision feels binary but both options are wrong.
+
+## 5. Rhythm — phases are real
+
+Feature spike → maintenance → feature spike. Don't fight the phase.
+
+When: burning out, forcing work that isn't ready.
+
+## 6. Cause and Effect — find the cause
+
+Recurring symptoms mean unfixed causes. Trace upstream until the cause is named.
+
+When: same bug class keeps appearing, recurring incidents.
+
+## 7. Gender — generative + receptive
+
+Every system needs both: it produces output, it receives input. Imbalance is broken.
+
+When: a system doesn't take inputs (or ignores them), or produces output nobody uses.
+
+## How to apply
+
+- Stuck on architecture? Mentalism.
+- Levels disconnected? Correspondence.
+- Can't ship? Vibration.
+- Decision false? Polarity.
+- Burning out? Rhythm.
+- Recurring bug? Cause and Effect.
+- System dead? Gender.
+
+Not all seven for every decision. Pick the one that fits the question.
