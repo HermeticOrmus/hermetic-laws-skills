@@ -1,6 +1,23 @@
-# Hermetic Laws Skills
+<p align="center">
+  <img src="https://ormus.solutions/mascot/chain_braces_to_swan.gif" alt="Hermetic Laws Skills" width="128" style="image-rendering: pixelated;" />
+</p>
 
-> A single `CLAUDE.md` applying the seven Hermetic Principles to software engineering. Ancient operating principles, modern code.
+<h1 align="center">Hermetic Laws Skills</h1>
+
+<p align="center">
+  <em>A CLAUDE.md applying the 7 Hermetic Principles to software engineering — mentalism, correspondence, vibration, polarity, rhythm, cause-effect, gender. Ancient operating principles applied to modern code.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HermeticOrmus/hermetic-laws-skills/stargazers"><img src="https://img.shields.io/github/stars/HermeticOrmus/hermetic-laws-skills?style=flat-square&color=aa8142" alt="Stars" /></a>
+  <a href="https://github.com/HermeticOrmus/hermetic-laws-skills/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HermeticOrmus/hermetic-laws-skills?style=flat-square&color=aa8142" alt="License" /></a>
+  <a href="https://github.com/HermeticOrmus/hermetic-laws-skills/commits"><img src="https://img.shields.io/github/last-commit/HermeticOrmus/hermetic-laws-skills?style=flat-square&color=aa8142" alt="Last Commit" /></a>
+  <img src="https://img.shields.io/badge/Claude_Code-aa8142?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+---
+
+> **A single `CLAUDE.md` applying the seven Hermetic Principles to software engineering. Ancient operating principles, modern code.**
 
 > *"As above, so below; as below, so above."* — The Kybalion (1908)
 
